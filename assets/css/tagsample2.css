@@ -1,0 +1,18 @@
+.head { 
+    width: 100%;
+    border: 1px solid blue;
+    background-color: antiquewhite;
+    height: 150px;
+}
+.aside {
+    height: 100px;
+    background-color: bisque;
+    /*width:35%;*/
+    border:1px solid green;
+}
+.content {
+    height:130px;
+    background-color: blueviolet;
+    border:1px solid blue;
+
+}
